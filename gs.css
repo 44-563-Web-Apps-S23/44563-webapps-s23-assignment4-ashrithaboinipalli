@@ -48,3 +48,21 @@ td {
     border-color:greenyellow;
     border: 1px solid;
 }
+.LUKA:hover {
+    font-size: medium;
+    color: blue;
+    text-shadow: 0 0 10px blue;
+    border-style: dashed;
+}
+    .SMIRNOV:hover {
+        font-size: medium;
+        color: darkorange;
+        text-shadow: 0 0 10px darkorange;
+        border-style: dashed;
+            }
+.POPOV:hover {
+    font-size: medium;
+    color: deeppink;
+    text-shadow: 0 0 10px deeppink;
+    border-style: dashed;
+}
