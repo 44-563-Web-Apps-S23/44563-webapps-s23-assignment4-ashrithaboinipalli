@@ -29,3 +29,22 @@
 .POPOV {
     color:deeppink;
 }
+table {
+    border-color: black;
+    border: 1px solid;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+th {
+    border-color:black;
+    border: 1px solid;
+    color: blue;
+    background-color:yellow;
+}
+td {
+    border-color:greenyellow;
+    border: 1px solid;
+}
