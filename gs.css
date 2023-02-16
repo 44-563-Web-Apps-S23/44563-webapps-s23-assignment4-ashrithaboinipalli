@@ -1,0 +1,31 @@
+.speech
+{
+    color:black;
+    font-size: medium;
+    font-family:'Courier New', Courier, monospace;
+}
+.direction
+{
+    background-color:bisque;
+    color: black;
+    font-size:small;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.direction:hover
+{
+    color:crimson;
+    background-color:darkseagreen;
+}
+.name {
+    color: green;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.LUKA {
+    color:blue;
+}
+.SMIRNOV {
+    color:darkorange;
+}
+.POPOV {
+    color:deeppink;
+}
